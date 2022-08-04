@@ -1,0 +1,4 @@
+AuthUserFile /home/pmagunia/.htpasswd
+AuthType Basic
+AuthName "Parag.today"
+Require valid-user

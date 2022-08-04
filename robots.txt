@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Disallow: /img/family_reunion.webp
